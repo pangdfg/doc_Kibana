@@ -1,4 +1,4 @@
-"# Elasticsearch + Kibana + Go API
+# Elasticsearch + Kibana + Go API
 
 A comprehensive demonstration project showcasing Elasticsearch integration with a Go backend API using Gin framework, complete with Kibana visualization and Docker Compose setup.
 
